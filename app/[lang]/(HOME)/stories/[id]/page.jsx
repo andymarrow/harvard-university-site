@@ -32,7 +32,7 @@ export default function StoryPage({ params }) {
       {/* HEADER (Sticky) */}
       <header className="fixed z-50 pointer-events-none
         top-24 left-0 w-full px-4
-        lg:top-7 lg:left-8 lg:w-auto lg:px-0"
+         lg:left-8 lg:w-auto lg:px-0"
       >
         <Link 
             href="/" 
