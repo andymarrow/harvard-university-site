@@ -15,7 +15,8 @@ import {
   FlaskConical, 
   Newspaper 
 } from "lucide-react"; 
-import ThemeToggle from "@/components/ThemeToggle";
+import ThemeToggle from "@/components/Themetoggle";
+
 
 // --- DATA STRUCTURE (UPDATED WITH REAL LINKS) ---
 const NAV_DATA = [
